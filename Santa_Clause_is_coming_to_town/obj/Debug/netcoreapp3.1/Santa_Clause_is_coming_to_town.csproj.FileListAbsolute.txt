@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\bin\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.exe
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\bin\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.deps.json
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\bin\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.runtimeconfig.json
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\bin\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\bin\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.dll
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\bin\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.pdb
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.Properties.Resources.resources
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.dll
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.pdb
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Santa_Clause_is_coming_to_town\Santa_Clause_is_coming_to_town\obj\Debug\netcoreapp3.1\Santa_Clause_is_coming_to_town.backround.resources
